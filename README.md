@@ -7,7 +7,8 @@
 npm install
 ```
 
-- yarn
+
+- 或 yarn
 
 ```
 brew install yarn

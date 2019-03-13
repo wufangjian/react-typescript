@@ -4,7 +4,9 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "build-storybook": "build-storybook",
+    "storybook": "start-storybook"
   },
   "keywords": [],
   "author": "wufangjian <177676656@qq.com> (https://wufangjian.github.io/)",
@@ -26,6 +28,12 @@
     "typescript": "^3.3.3333",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "^3.2.1"
+    "webpack-dev-server": "^3.2.1",
+    "@storybook/react": "^5.0.1",
+    "@storybook/addon-actions": "^5.0.1",
+    "@storybook/addon-links": "^5.0.1",
+    "@storybook/addons": "^5.0.1",
+    "@babel/core": "^7.3.4",
+    "babel-loader": "^8.0.5"
   }
 }

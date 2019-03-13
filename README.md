@@ -17,17 +17,20 @@ yarn
 // 运行
 npm start
 
+// 或
+yarn start
+
 // 访问
 http://localhost:8080/
 ```
 
----
+## 分支说明
 
-## 分支 part1
+### 分支 part1
 
 - basic
 
-## 分支 part2 
+### 分支 part2 
 
 - scss [mini-css-extract-plugin / css-loader / sass-loader / node-sass ]
 
@@ -38,7 +41,7 @@ http://localhost:8080/
 - 动态引入 [html-webpack-plugin]
 
 
-## 分支 part3
+### 分支 part3
 
 - storybook
 
